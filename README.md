@@ -1,1 +1,1 @@
-# Lab-12
+# AI Labs
